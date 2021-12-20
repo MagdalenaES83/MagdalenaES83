@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning react in redux
 - 📫 How to reach me: through Strive School or linkedIn
 - 🎈 Fact: I am crazy about my dog 
-- <img src=" https://media3.giphy.com/media/26mkhNrAhHJ0fGbqE/giphy.gif?cid=ecf05e47atrurr1zhv428ivsy2krk5p6n9jzyyhjrokl6zk0&rid=giphy.gif&ct=g" width="80"/>
+- <img src="https://media3.giphy.com/media/26mkhNrAhHJ0fGbqE/giphy.gif?cid=ecf05e47atrurr1zhv428ivsy2krk5p6n9jzyyhjrokl6zk0&rid=giphy.gif&ct=g" width="80"/>
 - 
 -
 
